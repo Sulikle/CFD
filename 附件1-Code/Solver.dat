@@ -1,0 +1,11 @@
+--Mode selection
+Mesh	Timepush	Flux	Pn	Pm
+1.4000000	1	1	0	1
+-------------------------
+--Cycle break
+ tol		CFL		rDG
+0.0001000	0.010000	1
+-------------------------
+--Paramater
+ Ma_far		afa_attack	gamma
+0.380000	0.000000	1.400000
